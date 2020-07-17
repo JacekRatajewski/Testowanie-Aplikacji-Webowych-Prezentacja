@@ -1,0 +1,4 @@
+C:\Users\jrat01\Source\Repos\Selenium.Presentation\Selenium.Presentation.NBA\bin\Debug\netcoreapp3.1\Selenium.Presentation.NBA.exe
+C:\Users\jrat01\Source\Repos\Selenium.Presentation\Selenium.Presentation.NBA\obj\Debug\netcoreapp3.1\Selenium.Presentation.NBA.csprojAssemblyReference.cache
+C:\Users\jrat01\Source\Repos\Selenium.Presentation\Selenium.Presentation.NBA\obj\Debug\netcoreapp3.1\Selenium.Presentation.NBA.AssemblyInfoInputs.cache
+C:\Users\jrat01\Source\Repos\Selenium.Presentation\Selenium.Presentation.NBA\obj\Debug\netcoreapp3.1\Selenium.Presentation.NBA.AssemblyInfo.cs

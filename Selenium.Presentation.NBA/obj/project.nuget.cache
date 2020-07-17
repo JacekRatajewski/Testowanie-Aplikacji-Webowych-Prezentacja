@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gcvOvb9zZ7Qwu3Af5ES6kOSa2zQ0REfKzn6/TP3zkEB2SJBNT5EtL8srO2rqTu9Kh4GnVcz1mNSYqyykn6ySBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrat01\\Source\\Repos\\Selenium.Presentation\\Selenium.Presentation.NBA\\Selenium.Presentation.NBA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrat01\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\jrat01\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

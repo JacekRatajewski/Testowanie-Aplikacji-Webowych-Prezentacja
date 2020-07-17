@@ -1,0 +1,4 @@
+C:\Users\jrat01\Source\Repos\Selenium.Presentation\Selenium.Presentation.PoP\bin\Debug\netcoreapp3.1\Selenium.Presentation.AC.dll
+C:\Users\jrat01\Source\Repos\Selenium.Presentation\Selenium.Presentation.PoP\obj\Debug\netcoreapp3.1\Selenium.Presentation.PoP.csprojAssemblyReference.cache
+C:\Users\jrat01\Source\Repos\Selenium.Presentation\Selenium.Presentation.PoP\obj\Debug\netcoreapp3.1\Selenium.Presentation.PoP.AssemblyInfoInputs.cache
+C:\Users\jrat01\Source\Repos\Selenium.Presentation\Selenium.Presentation.PoP\obj\Debug\netcoreapp3.1\Selenium.Presentation.PoP.AssemblyInfo.cs
